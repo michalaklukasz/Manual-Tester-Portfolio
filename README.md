@@ -21,7 +21,7 @@
 
 ### September 2023
 
-✅ <a href="" target="_blank">Become a Tester - Sii </a>
+✅ <a href="https://drive.google.com/file/d/1evQko1WHPgmGCPjmkHHtacguWgAFZM-L/view?usp=sharing" target="_blank">Become a Tester - Sii </a>
 
 -  ISTQB theoretical knowledge
 -  Software testing methods, tools and techniques
