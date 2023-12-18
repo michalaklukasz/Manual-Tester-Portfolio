@@ -1,2 +1,2 @@
-# Manual-Tester-Portfolio
+# Manual Tester Portfolio
 Łukasz Michalak
