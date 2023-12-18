@@ -22,3 +22,9 @@
 ### September 2023
 
 ✅ <a href="" target="_blank">Become a Tester - Sii </a>
+
+👉 ISTQB theoretical knowledge
+👉 Software testing methods, tools and techniques
+👉 Analysis and creation of test documentation (test plan, test cases, functional requirements)
+👉 Introduction to databases and SQL language
+👉 Test automation basics (introduction)
