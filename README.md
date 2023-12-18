@@ -17,8 +17,8 @@
 
 ### November 2023
 
-☑️ <a href="" target="_blank">ISTQB Foundation Level - SJSI </a>
+✔️ <a href="" target="_blank">ISTQB Foundation Level - SJSI </a>
 
 ### September 2023
 
-☑️ <a href="" target="_blank">Become a Tester - Sii </a>
+✔️ <a href="" target="_blank">Become a Tester - Sii </a>
