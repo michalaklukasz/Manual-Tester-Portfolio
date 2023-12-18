@@ -17,7 +17,7 @@
 
 ### November 2023
 
-✅ <a href="" target="_blank">ISTQB Foundation Level - SJSI </a>
+✅ <a href="https://drive.google.com/file/d/1FMbbnJWn4qB0YyT5PrArNXCnS-mzy38Q/view?usp=share_link" target="_blank">ISTQB Foundation Level - SJSI </a>
 
 ### September 2023
 
