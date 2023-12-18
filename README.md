@@ -28,3 +28,15 @@
 -  Analysis and creation of test documentation (test plan, test cases, functional requirements)
 -  Introduction to databases and SQL language
 -  Test automation basics (introduction)
+
+## <a name="sql">Soft Skills</a> 
+
+👁️ Precision and attention to quality
+
+👏 Communication and teamwork skills
+
+👓 Critical thinking
+
+📚 Ability to learn new tools, systems and processes quickly
+
+💡 Thinking outside the box
