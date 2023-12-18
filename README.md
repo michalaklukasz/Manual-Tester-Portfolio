@@ -11,4 +11,4 @@
 
 ### <a name="sql">SQL Tasks</a> 
 
-[**SQL Tasks - examples**]
+[**SQL tasks - advanced**](https://github.com/k-czekaj/challenge_portfolio_katarzyna/blob/main/Task6.md#subtask1) 
