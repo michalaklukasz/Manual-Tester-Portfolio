@@ -29,7 +29,7 @@
 -  Introduction to databases and SQL language
 -  Test automation basics (introduction)
 
-## <a name="sql">Soft Skills</a> 
+## <a name="softskills">Soft Skills</a> 
 
 👁️ Precision and attention to quality
 
