@@ -7,4 +7,4 @@
 
 ### <a name="testcases">TEST CASES example</a>
 
-<a href="https://docs.google.com/spreadsheets/d/11LXh1AYjLHzgW2Ql84FS_cv49GqCJ4qe/edit?usp=share_link&ouid=108202201548952141850&rtpof=true&sd=true" target="_blank"><b>Test Cases based on the Requirements</b></a>
+<a href="https://drive.google.com/drive/folders/1f5Nh8jP_6OOcJXhy6liRlQ1YQZpmCEZb?usp=sharing"><b>Test Cases based on the Requirements</b></a>
