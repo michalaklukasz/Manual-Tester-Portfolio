@@ -4,3 +4,7 @@
 
 ## <a name="aboutme"> ABOUT ME</a> 
 <p align="justify"> I am a Entry-Level Software Tester with strong attention to detail. Before I started testing, I learned how important is to be meticulous and a team player through my current experience. I like new challenges, that made me want to learn more and more about this domain and improve my skills every day. My objective is to excel in a challenging and innovative Quality Assurance work environment and aim to exercise my full potential.
+
+### <a name="testcases">TEST CASES example</a>
+
+  :arrow_forward: <a href="https://docs.google.com/spreadsheets/d/1tIGeHfqwgSP1iM9ihQ3Z-YdhWcP5EOYLRanQKBu2Bmw/edit?usp=sharing" target="_blank"><b>Test cases based on the Requirements</b></a>
