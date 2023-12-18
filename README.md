@@ -17,7 +17,7 @@
 
 ### November 2023
 
-✅ <a href="" target="_blank">ISTQB Foundation Level - SJSI </a>
+✅ <a href="CTFL3-2023-21461-SJSI_PL_Lukasz_Michalak.pdf" target="_blank">ISTQB Foundation Level - SJSI </a>
 
 ### September 2023
 
