@@ -3,7 +3,7 @@
 ✍️ [About Me](#aboutme) 👨‍💻 [Test Case Examples](#testcases) 🔎  [SQL Tasks](#sql) 🧑‍🎓 [Courses & Certificates](#courses) 🤝 [Soft Skills](#softskills)
 
 ## <a name="aboutme"> About Me</a> 
-<p align="justify"> I am a Entry-Level Software Tester with strong attention to detail. Before I started testing, I learned how important is to be meticulous and a team player through my current experience. I like new challenges, that made me want to learn more and more about this domain and improve my skills every day. My objective is to excel in a challenging and innovative Quality Assurance work environment and aim to exercise my full potential.
+<p align="justify"> I am a Entry-Level Manual Tester with strong attention to detail. Before I started testing, I learned how important is to be meticulous and a team player through my current experience. I like new challenges, that made me want to learn more and more about this domain and improve my skills every day. My objective is to excel in a challenging and innovative Quality Assurance work environment and aim to exercise my full potential.
 
 ## <a name="testcases">Test Case Examples</a>
 
