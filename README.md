@@ -1,9 +1,15 @@
-# Manual Tester Portfolio - Łukasz Michalak
+# QA Engineer Portfolio - Łukasz Michalak
 
 ✍️ [About Me](#aboutme) 👨‍💻 [Test Case Examples](#testcases) 🔎  [SQL Tasks](#sql) 🧑‍🎓 [Courses & Certificates](#courses) 🤝 [Soft Skills](#softskills)
 
 ## <a name="aboutme"> About Me</a> 
-<p align="justify"> I am a Entry-Level Manual Tester with strong attention to detail. Before I started testing, I learned how important is to be meticulous and a team player through my current experience. I like new challenges, that made me want to learn more and more about this domain and improve my skills every day. My objective is to excel in a challenging and innovative Quality Assurance work environment and aim to exercise my full potential.
+<p align="justify"> I am a Junior Software Tester with nearly a year of hands-on experience in Quality Assurance, complemented by a strong attention to detail and a methodical approach to testing. My professional journey has reinforced the importance of being meticulous, a team player, and continuously learning in a fast-paced environment.
+
+I thrive on new challenges, which fuel my desire to expand my knowledge and improve my skills every day. In addition to manual testing, I am actively developing my skills in test automation, aiming to build a solid foundation in both areas. My objective is to excel in a challenging and innovative Quality Assurance environment and fully realize my potential.
+
+I am familiar with industry best practices in testing, as confirmed by my ISTQB Foundation Level certification. I am a patient listener and an effective communicator, adept at conveying information both verbally and in writing. I am proficient in using computers and standard office software at an advanced level.
+
+I easily integrate into group tasks, contributing ideas, concepts, and suggestions to the team. At the same time, I am highly organized and effective in individual work, managing my time and responsibilities with precision. My cultural sensitivity and ability to build positive relationships with diverse colleagues further enhance my ability to thrive in collaborative environments.
 
 ## <a name="testcases">Test Case Examples</a>
 
