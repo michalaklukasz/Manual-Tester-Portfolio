@@ -15,6 +15,10 @@ I easily integrate into group tasks, contributing ideas, concepts, and suggestio
 
 <a href="https://drive.google.com/drive/folders/1f5Nh8jP_6OOcJXhy6liRlQ1YQZpmCEZb?usp=sharing"><b>Test Case based on the Requirements</b></a>
 
+## <a name="autotests">Automated Tests with Selenium</a> 
+
+[**Automated Tests with Selenium**](https://github.com/michalaklukasz/automated-tests/tree/main)
+
 ## <a name="sql">SQL Tasks</a> 
 
 [**SQL tasks - basic and advanced**](https://github.com/michalaklukasz/sql-tasks/tree/main)
