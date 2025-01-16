@@ -1,6 +1,6 @@
 # QA Engineer Portfolio - Łukasz Michalak
 
-✍️ [About Me](#aboutme) 👨‍💻 [Test Case Examples](#testcases) 🔎  [SQL Tasks](#sql) 🧑‍🎓 [Courses & Certificates](#courses) 🤝 [Soft Skills](#softskills) 👨‍💻 [Automated Tests with Selenium](#autotests)
+✍️ [About Me](#aboutme) 👨‍💻 [Test Case Examples](#testcases) 👨‍💻 [Automated Tests with Selenium](#autotests) 🔎  [SQL Tasks](#sql) 🧑‍🎓 [Courses & Certificates](#courses) 🤝 [Soft Skills](#softskills)
 
 ## <a name="aboutme"> About Me</a> 
 <p align="justify"> I am a QA Engineer with nearly a year of hands-on experience in Quality Assurance, complemented by a strong attention to detail and a methodical approach to testing. My professional journey has reinforced the importance of being meticulous, a team player, and continuously learning in a fast-paced environment.
