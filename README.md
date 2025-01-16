@@ -3,7 +3,7 @@
 ✍️ [About Me](#aboutme) 👨‍💻 [Test Case Examples](#testcases) 🔎  [SQL Tasks](#sql) 🧑‍🎓 [Courses & Certificates](#courses) 🤝 [Soft Skills](#softskills)
 
 ## <a name="aboutme"> About Me</a> 
-<p align="justify"> I am a Junior Software Tester with nearly a year of hands-on experience in Quality Assurance, complemented by a strong attention to detail and a methodical approach to testing. My professional journey has reinforced the importance of being meticulous, a team player, and continuously learning in a fast-paced environment.
+<p align="justify"> I am a QA Engineer with nearly a year of hands-on experience in Quality Assurance, complemented by a strong attention to detail and a methodical approach to testing. My professional journey has reinforced the importance of being meticulous, a team player, and continuously learning in a fast-paced environment.
 
 I thrive on new challenges, which fuel my desire to expand my knowledge and improve my skills every day. In addition to manual testing, I am actively developing my skills in test automation, aiming to build a solid foundation in both areas. My objective is to excel in a challenging and innovative Quality Assurance environment and fully realize my potential.
 
