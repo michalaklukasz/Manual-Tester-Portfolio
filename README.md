@@ -17,7 +17,7 @@ I easily integrate into group tasks, contributing ideas, concepts, and suggestio
 
 ## <a name="autotests">Automated Tests with Selenium</a> 
 
-[**Automated Tests with Selenium**](https://github.com/michalaklukasz/automated-tests/tree/main)
+[**Automated Tests with Selenium**](https://github.com/michalaklukasz/automated-tests/tree/master)
 
 ## <a name="sql">SQL Tasks</a> 
 
